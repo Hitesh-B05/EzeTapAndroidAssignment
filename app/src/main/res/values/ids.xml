@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="label_name" type="id"/>
+    <item name="text_name" type="id"/>
+    <item name="label_phone" type="id"/>
+    <item name="text_phone" type="id"/>
+    <item name="label_city" type="id"/>
+    <item name="text_city" type="id"/>
+    <item name="submit_button" type="id"/>
+    <item name="unknown" type="id"/>
+</resources>
